@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="792-785-sampleweatherapi-response4051234-rev2-2015-07">
+    <Basepaths>/humanaweatherapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1563349752108</CreatedAt>
+    <CreatedBy>verma.govind92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>HumanaWeatherAPI</DisplayName>
+    <LastModifiedAt>1563349752108</LastModifiedAt>
+    <LastModifiedBy>verma.govind92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:6f9dc26ab24f26be3d5bcf291d6202f7733beb682662bd6b4b6a609f46cf39ae1932baccba7a4992957feee14b1513cfddbaf64f72cd383c9d2b5aa2fd0d461c</ManifestVersion>
+    <Policies>
+        <Policy>Raise-Fault-1</Policy>
+        <Policy>Return400</Policy>
+        <Policy>Return401</Policy>
+        <Policy>Return404</Policy>
+        <Policy>Return500</Policy>
+        <Policy>Return502</Policy>
+        <Policy>Return503</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
